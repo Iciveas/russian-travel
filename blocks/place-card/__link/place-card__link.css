@@ -1,0 +1,8 @@
+.place-card__link {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  min-width: 456px;
+  height: 22px;
+  margin: 12px 0 0 0;
+}
