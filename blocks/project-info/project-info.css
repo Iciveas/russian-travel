@@ -4,4 +4,6 @@
   position: relative;
   padding: 92px 0;
   margin: 0  auto;
+  display: flex;
+  flex-direction: column;
 }

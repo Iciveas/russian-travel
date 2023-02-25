@@ -1,3 +1,5 @@
 .place-card__link-block {
   justify-content: end;
+  display: flex;
+  flex-direction: column;
 }

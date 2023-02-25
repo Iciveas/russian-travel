@@ -3,3 +3,24 @@
   height: 460px;
   margin: 48px 40px 0 0;
 }
+
+@media all and (max-width: 1024px) {
+  .place-card__place-img {
+    width: 440px;
+    height: 440px;
+  }
+}
+
+@media all and (max-width: 768) {
+  .place-card__place-img {
+    width: 340px;
+    height: 340px;
+  }
+}
+
+@media all and (max-width: 320) {
+  .place-card__place-img {
+    width: 320px;
+    height: 320px;
+  }
+}

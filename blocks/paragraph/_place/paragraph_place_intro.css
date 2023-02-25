@@ -4,3 +4,14 @@
   font-size: 16px;
   line-height: 163%;
 }
+
+@media all and (max-width: 768px) {
+  .paragraph_place_intro {
+    width: 720px;
+  }
+}
+@media all and (max-width: 320px) {
+  .paragraph_place_intro {
+    width: 288px;
+  }
+}

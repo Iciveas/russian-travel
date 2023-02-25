@@ -7,3 +7,26 @@
   height: 72px;
   margin: 32px 0 64px;
 }
+
+
+@media all and (max-width: 1024px) {
+  .subtitle {
+    margin: 32px 0 56px;
+  }
+}
+
+@media all and (max-width: 768px) {
+  .subtitle {
+    margin: 32px 0 56px;
+  }
+}
+
+@media all and (max-width: 320px) {
+  .subtitle {
+    font-size: 1rem;
+    line-height: 1.25rem;
+    width: 288px;
+    height: 40px;
+    margin: 16px 0 40px;
+  }
+}

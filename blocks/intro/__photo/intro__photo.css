@@ -1,6 +1,20 @@
 .intro__photo {
-  width: 984px;
-  height: 615px;
+  width: 100%;
   margin: 0 auto;
-  background-image: url(../../../images/photo-train.jpeg);
+}
+
+
+@media screen and (max-width: 1024) {
+  .intro__photo {
+    width: 928px;
+    padding-bottom: 100%;
+  }
+}
+
+
+@media screen and (max-width: 768) {
+  .intro__photo {
+    width: 100%;
+    padding-bottom: 480px;
+  }
 }

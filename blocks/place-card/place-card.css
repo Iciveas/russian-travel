@@ -1,6 +1,24 @@
 .place-card {
   margin: 0  auto;
-  width: 1184px;
+  max-width: 1184px;
   padding: 0 100px;
   box-sizing: border-box;
+}
+
+@media all and (max-width: 1024px) {
+  .place-card {
+    width: 100%;
+  }
+}
+
+@media all and (max-width: 768) {
+  .place-card {
+    width: 100%
+  }
+}
+
+@media all and (max-width: 320) {
+  .place-card {
+    width: 100%;
+  }
 }

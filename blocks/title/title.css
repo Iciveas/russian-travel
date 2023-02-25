@@ -4,6 +4,28 @@
   height: 200px;
   text-align: center;
   font-weight: bold;
-  font-size: 96px;
+  font-size: 6rem;
   line-height: 100px;
+}
+
+
+@media screen and (max-width: 1024px) {
+  .title {
+    margin: 48px 0 0;
+  }
+}
+
+@media all and (max-width: 768px) {
+  .title {
+    margin: 48px 0 0;
+  }
+}
+
+@media all and (max-width: 320px) {
+  .title {
+    font-size: 2.5rem;
+    line-height: 2.75rem;
+    width: 288px;
+    height: 88px;
+  }
 }

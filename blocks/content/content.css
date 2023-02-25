@@ -1,0 +1,23 @@
+.content {
+  width: 984px;
+}
+
+
+@media all and (max-width: 1024px) {
+  .content {
+    max-width: 928px;
+  }
+}
+
+@media all and (max-width: 768px) {
+  .content {
+    max-width: 768px;
+  }
+}
+
+@media all and (max-width: 320px) {
+  .page {
+    max-width: 320px;
+  }
+}
+

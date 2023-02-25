@@ -1,0 +1,10 @@
+.place-card__direction-container {
+  display: flex;
+  flex-direction: row;
+}
+
+@media all and (max-width: 320px) {
+  .place-card__direction-container {
+    flex-direction: column;
+  }
+}
