@@ -1,7 +1,7 @@
 .title {
   margin: 56px 0 0;
   width: 720px;
-  height: 200px;
+  min-height: 200px;
   text-align: center;
   font-weight: bold;
   font-size: 6rem;
@@ -9,7 +9,7 @@
 }
 
 
-@media screen and (max-width: 1024px) {
+@media all and (max-width: 1024px) {
   .title {
     margin: 48px 0 0;
   }
@@ -26,6 +26,6 @@
     font-size: 2.5rem;
     line-height: 2.75rem;
     width: 288px;
-    height: 88px;
+    min-height: 88px;
   }
 }
