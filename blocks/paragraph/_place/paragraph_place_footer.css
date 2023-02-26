@@ -3,7 +3,8 @@
   line-height: 0.88rem;
   width: 186px;
   position: absolute;
-  right: 0;
+  right: 48px;
+  bottom: 2px;
   margin: 0;
   text-align: end;
 }
