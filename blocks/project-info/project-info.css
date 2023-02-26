@@ -7,6 +7,9 @@
   flex-direction: column;
 }
 
+.project-info:hover .project-info__img {
+  opacity: 0.2;
+}
 
 @media all and (max-width: 1279px) {
   .project-info {
