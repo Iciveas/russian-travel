@@ -4,3 +4,7 @@
   line-height: 18px;
   text-decoration: none;
 }
+
+.footer__link:hover{
+  opacity: 0.2;
+}

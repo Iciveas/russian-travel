@@ -5,7 +5,7 @@
 }
 
 
-@media all and (max-width: 320px) {
+@media all and (max-width: 767px) {
   .place-card__link-block {
     padding: 0 16px;
   }

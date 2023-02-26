@@ -7,7 +7,7 @@
   flex-direction: row;
 }
 
-@media all and (max-width: 320px) {
+@media all and (max-width: 767px) {
   .footer__links-list {
     flex-direction: column;
     margin-bottom: 48px;

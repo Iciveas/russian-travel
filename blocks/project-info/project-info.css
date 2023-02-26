@@ -7,20 +7,21 @@
   flex-direction: column;
 }
 
-@media all and (max-width: 1024px) {
+
+@media all and (max-width: 1279px) {
   .project-info {
     width: 1024px;
   }
 }
 
-@media all and (max-width: 768px) {
+@media all and (max-width: 1023px) {
   .project-info {
     padding: 90px 0 88px;
     width: 768px;
   }
 }
 
-@media all and (max-width: 320px) {
+@media all and (max-width: 767px) {
   .project-info {
     padding: 66px 0 64px;
     width: 320px;

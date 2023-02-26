@@ -5,20 +5,20 @@
   flex-direction: column;
 }
 
-@media all and (max-width: 1024px) {
+@media all and (max-width: 1279px) {
   .place-card__text-block {
     gap: 26px;
   }
 }
 
 
-@media all and (max-width: 768px) {
+@media all and (max-width: 1023px) {
   .place-card__text-block {
     gap: 25px;
   }
 }
 
-@media all and (max-width: 320px) {
+@media all and (max-width: 767px) {
   .place-card__text-block {
     gap: 25px;
     margin-top: 0;

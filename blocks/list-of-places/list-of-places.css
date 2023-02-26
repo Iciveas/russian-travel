@@ -7,20 +7,20 @@
 
 
 
-@media all and (max-width: 1024px) {
+@media all and (max-width: 1279px) {
   .list-of-places {
     gap: 80px;
   }
 }
 
 
-@media all and (max-width: 768px) {
+@media all and (max-width: 1023px) {
   .list-of-places {
     gap: 73px;
   }
 }
 
-@media all and (max-width: 320px) {
+@media all and (max-width: 767px) {
   .list-of-places {
     gap: 50px;
   }

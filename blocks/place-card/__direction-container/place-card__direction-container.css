@@ -5,20 +5,20 @@
 }
 
 
-@media all and (max-width: 1024px) {
+@media all and (max-width: 1279px) {
   .place-card__direction-container {
     width: 928px;
   }
 }
 
-@media all and (max-width: 768px) {
+@media all and (max-width: 1023px) {
   .place-card__direction-container {
     width: 720px;
     justify-content: space-between;
   }
 }
 
-@media all and (max-width: 320px) {
+@media all and (max-width: 767px) {
   .place-card__direction-container {
     flex-direction: column;
     width: 288px;

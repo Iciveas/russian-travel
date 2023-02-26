@@ -9,13 +9,13 @@
 }
 
 
-@media all and (max-width: 768px) {
+@media all and (max-width: 1023px) {
   .place-card__link-heading {
     width: 352px;
   }
 }
 
-@media all and (max-width: 320px) {
+@media all and (max-width: 767px) {
   .place-card__link-heading {
     width: 288px;
   }
