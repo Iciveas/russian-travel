@@ -5,3 +5,6 @@
 - HTML
 - CSS (flex для большинства элементов, grid для галереи и абсолютное позиционирование в исключительных случаях; hover-эффекты)
 - В проекте используется бесплатный шрифт Inter [Лицензия](/fonts/Inter-3.19/LICENSE.txt)
+
+
+[Сайт на GithubPages](https://iciveas.github.io/russian-travel/)
