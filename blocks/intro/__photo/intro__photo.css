@@ -11,8 +11,8 @@
 
 @media all and (max-width: 768px) {
   .intro__photo {
-    width: 100%;
-  }
+    width: 768px;
+    margin: 0 -24px;  }
 }
 
 @media all and (max-width: 320px) {

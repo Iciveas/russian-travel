@@ -15,7 +15,7 @@
 
 @media all and (max-width: 768px) {
   .project-info {
-    padding: 90px 0;
+    padding: 90px 0 88px;
     width: 768px;
   }
 }
