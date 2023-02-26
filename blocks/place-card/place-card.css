@@ -5,20 +5,24 @@
   box-sizing: border-box;
 }
 
+
 @media all and (max-width: 1024px) {
-  .place-card {
+  .place-card{
     width: 100%;
+    padding: 0 48px;  
   }
 }
 
-@media all and (max-width: 768) {
-  .place-card {
-    width: 100%
+@media all and (max-width: 768px) {
+  .place-card{
+    width: 100%;
+    padding: 0 24px;
   }
 }
 
-@media all and (max-width: 320) {
+@media all and (max-width: 320px) {
   .place-card {
     width: 100%;
+    padding: 0;
   }
 }

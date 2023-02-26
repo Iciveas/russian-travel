@@ -4,3 +4,24 @@
   gap: 80px;
   width: 100%;
 }
+
+
+
+@media all and (max-width: 1024px) {
+  .list-of-places {
+    gap: 80px;
+  }
+}
+
+
+@media all and (max-width: 768px) {
+  .list-of-places {
+    gap: 73px;
+  }
+}
+
+@media all and (max-width: 320px) {
+  .list-of-places {
+    gap: 50px;
+  }
+}

@@ -5,3 +5,32 @@
   margin: 0 40px 0 0;
   width: 460px;
 }
+
+
+@media all and (max-width: 1024px) {
+  .place-card__place-heading {
+    width: 440px;
+    margin: 0 32px 0 0;
+
+  }
+}
+
+@media all and (max-width: 768px) {
+  .place-card__place-heading {
+    width: 340px;
+    font-size: 2.6rem;
+    line-height: 2.88rem;
+    margin: 0 28px 0 0;
+
+  }
+}
+
+@media all and (max-width: 320px) {
+  .place-card__place-heading {
+    width: 288px;
+    font-size: 2rem;
+    line-height: 2.2rem;
+    margin: 0 0 32px 0;
+    padding: 0 16px;
+  }
+}

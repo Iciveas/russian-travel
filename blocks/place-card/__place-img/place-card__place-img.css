@@ -4,23 +4,28 @@
   margin: 48px 40px 0 0;
 }
 
+
 @media all and (max-width: 1024px) {
-  .place-card__place-img {
+  .place-card__place-img{
     width: 440px;
     height: 440px;
+    margin: 48px 32px 0 0;
   }
 }
 
-@media all and (max-width: 768) {
+@media all and (max-width: 768px) {
   .place-card__place-img {
     width: 340px;
     height: 340px;
+    margin: 48px 28px 0 0;
+
   }
 }
 
-@media all and (max-width: 320) {
+@media all and (max-width: 320px) {
   .place-card__place-img {
     width: 320px;
     height: 320px;
+    margin: 32px 0;
   }
 }

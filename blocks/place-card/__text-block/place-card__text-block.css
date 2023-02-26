@@ -4,3 +4,24 @@
   display: flex;
   flex-direction: column;
 }
+
+@media all and (max-width: 1024px) {
+  .place-card__text-block {
+    gap: 26px;
+  }
+}
+
+
+@media all and (max-width: 768px) {
+  .place-card__text-block {
+    gap: 25px;
+  }
+}
+
+@media all and (max-width: 320px) {
+  .place-card__text-block {
+    gap: 25px;
+    margin-top: 0;
+    padding: 0 16px;
+  }
+}

@@ -1,3 +1,4 @@
 .project-info__link {
   text-decoration: none;
+  display: inline-block;
 }

@@ -6,6 +6,7 @@
 @media all and (max-width: 1024px) {
   .content {
     max-width: 928px;
+    padding: 0 48px;
   }
 }
 

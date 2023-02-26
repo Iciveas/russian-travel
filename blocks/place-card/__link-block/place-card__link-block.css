@@ -3,3 +3,10 @@
   display: flex;
   flex-direction: column;
 }
+
+
+@media all and (max-width: 320px) {
+  .place-card__link-block {
+    padding: 0 16px;
+  }
+}

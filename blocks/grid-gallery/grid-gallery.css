@@ -12,14 +12,20 @@
 
 
 @media screen and (max-width: 1024px) {
-  .grid-gallery { grid-template-columns: repeat(3, 1fr);}
+  .grid-gallery { 
+    grid-template-columns: repeat(3, 1fr);
+    padding: 92px 48px;
+    gap: 14px;
+  }
+  
 }
 
 
 @media screen and (max-width: 768px) {
   .grid-gallery { 
     grid-template-columns: repeat(2, 1fr);
-    padding: 88px 0;
+    padding: 88px 24px;
+    gap: 16px;
   }
 }
 
