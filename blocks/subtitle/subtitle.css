@@ -4,7 +4,7 @@
   font-size: 30px;
   line-height: 36px;
   width: 640px;
-  height: 72px;
+  min-height: 72px;
   margin: 32px 0 64px;
 }
 
@@ -26,7 +26,7 @@
     font-size: 1rem;
     line-height: 1.25rem;
     width: 288px;
-    height: 40px;
+    min-height: 40px;
     margin: 16px 0 40px;
   }
 }

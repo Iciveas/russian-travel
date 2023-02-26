@@ -14,6 +14,8 @@
 @import url(../blocks/subtitle/subtitle.css);
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__photo/intro__photo.css);
+@import url(../blocks/intro/__svg/intro__svg.css);
+@import url(../blocks/intro/__photo-block/intro__photo-block.css);
 @import url(../blocks/intro/__photo-signature/intro__photo-signature.css);
 @import url(../blocks/intro/__heading/intro__heading.css);
 @import url(../blocks/paragraph/paragraph.css);

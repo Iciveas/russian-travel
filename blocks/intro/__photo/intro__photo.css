@@ -3,6 +3,7 @@
   margin: 0 auto;
 }
 
+
 @media all and (max-width: 1279px) {
   .intro__photo {
     width: 928px;
