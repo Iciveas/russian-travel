@@ -1,0 +1,20 @@
+.page-titling__svg {
+  position: absolute;
+  top: 10%;
+  left: 0;
+  padding: 24px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+@media all and (max-width: 1023px) {
+  .page-titling__svg {
+    padding: 18px;
+  }
+}
+
+@media all and (max-width: 767px) {
+  .page-titling__svg {
+    padding: 8px;
+  }
+}

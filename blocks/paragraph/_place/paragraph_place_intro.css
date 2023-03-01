@@ -1,17 +1,6 @@
 .paragraph_place_intro {
-  width: 690px;
+  max-width: 690px;
   margin-top: 40px;
   font-size: 16px;
   line-height: 163%;
-}
-
-@media all and (max-width: 1023px) {
-  .paragraph_place_intro {
-    width: 720px;
-  }
-}
-@media all and (max-width: 767px) {
-  .paragraph_place_intro {
-    width: 288px;
-  }
 }

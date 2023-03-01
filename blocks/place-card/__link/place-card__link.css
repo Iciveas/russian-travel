@@ -2,23 +2,11 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 22px;
-  width: 456px;
+  width: 100%;
   min-height: 22px;
   margin: 12px 0 0 0;
 }
 
 .place-card__link:hover{
   opacity: 0.2;
-}
-
-@media all and (max-width: 1023px) {
-  .place-card__link {
-    width: 352px;
-  }
-}
-
-@media all and (max-width: 767px) {
-  .place-card__link {
-    width: 288px;
-  }
 }
