@@ -1,0 +1,10 @@
+.page-titling__photo {
+  width: 100%;
+  margin: 0 auto;
+}
+
+@media all and (max-width: 1279px){
+  .page-titling__photo {
+    max-width: 928px;
+    margin: 0 auto;}
+}

@@ -1,7 +1,8 @@
 .project-info {
-  width: 1184px;
+  width: 100%;
   position: relative;
-  padding: 92px 0;
+  padding: 92px 48px 0;
+  box-sizing: border-box;
   margin: 0  auto;
   display: flex;
   flex-direction: column;
@@ -13,20 +14,18 @@
 
 @media all and (max-width: 1279px) {
   .project-info {
-    width: 1024px;
+    padding: 90px 0 0;
   }
 }
 
 @media all and (max-width: 1023px) {
   .project-info {
     padding: 90px 0 88px;
-    width: 768px;
   }
 }
 
 @media all and (max-width: 767px) {
   .project-info {
     padding: 66px 0 64px;
-    width: 320px;
   }
 }

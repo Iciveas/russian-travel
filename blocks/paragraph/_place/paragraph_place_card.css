@@ -1,26 +1,12 @@
 .paragraph_place_card {
   font-size: 18px;
-  width: 484px;
+  width: 100%;
   margin: 0;
   line-height: 163%;
 }
 
-@media all and (max-width: 1279px) {
-  .paragraph_place_card {
-    width: 456px;
-  }
-}
-
-
 @media all and (max-width: 1023px) {
   .paragraph_place_card {
-    width: 352px;
     font-size: 1rem;
-  }
-}
-
-@media all and (max-width: 767px) {
-  .paragraph_place_card {
-    width: 288px;
   }
 }

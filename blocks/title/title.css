@@ -1,6 +1,7 @@
 .title {
   margin: 56px 0 0;
-  width: 720px;
+  width: 100%;
+  max-width: 720px;
   min-height: 200px;
   text-align: center;
   font-weight: 900;
@@ -19,7 +20,6 @@
   .title {
     font-size: 2.5rem;
     line-height: 2.75rem;
-    width: 288px;
     min-height: 88px;
   }
 }

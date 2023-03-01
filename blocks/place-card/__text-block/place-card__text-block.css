@@ -3,6 +3,7 @@
   margin-top: 48px;
   display: flex;
   flex-direction: column;
+  width: 100%;
 }
 
 @media all and (max-width: 1023px) {
@@ -15,5 +16,6 @@
   .place-card__text-block {
     margin-top: 0;
     padding: 0 16px;
+    box-sizing: border-box;
   }
 }

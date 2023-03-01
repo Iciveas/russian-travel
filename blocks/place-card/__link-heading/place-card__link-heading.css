@@ -2,21 +2,8 @@
   font-weight: 400;
   font-size: 12px;
   line-height: 12px;
-  width: 456px;
+  width: 100%;
   letter-spacing: 2px;
   color: #aaa;
   margin: 0;
-}
-
-
-@media all and (max-width: 1023px) {
-  .place-card__link-heading {
-    width: 352px;
-  }
-}
-
-@media all and (max-width: 767px) {
-  .place-card__link-heading {
-    width: 288px;
-  }
 }

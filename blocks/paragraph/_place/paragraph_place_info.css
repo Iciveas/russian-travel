@@ -1,6 +1,6 @@
 .paragraph_place_info {
   font-size: 18px;
-  width: 484px;
+  max-width: 360px;
   line-height: 22px;
   text-align: center;
   margin: 32px auto 0;
@@ -8,7 +8,6 @@
 
 @media all and (max-width: 1023px) {
   .paragraph_place_info {
-    width: 360px;
     font-size: 1.1rem;
     line-height: 1.4rem;
   }
@@ -16,7 +15,6 @@
 
 @media all and (max-width: 767px) {
   .paragraph_place_info {
-    width: 288px;
     font-size: 0.88rem;
     line-height: 1rem;  
 }

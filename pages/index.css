@@ -11,11 +11,11 @@
 @import url(../blocks/page-titling/page-titling.css);
 @import url(../blocks/title/title.css);
 @import url(../blocks/subtitle/subtitle.css);
+@import url(../blocks/page-titling/__photo/page-titling__photo.css);
+@import url(../blocks/page-titling/__svg/page-titling__svg.css);
+@import url(../blocks/page-titling/__photo-block/page-titling__photo-block.css);
+@import url(../blocks/page-titling/__photo-signature/page-titling__photo-signature.css);
 @import url(../blocks/intro/intro.css);
-@import url(../blocks/intro/__photo/intro__photo.css);
-@import url(../blocks/intro/__svg/intro__svg.css);
-@import url(../blocks/intro/__photo-block/intro__photo-block.css);
-@import url(../blocks/intro/__photo-signature/intro__photo-signature.css);
 @import url(../blocks/intro/__heading/intro__heading.css);
 @import url(../blocks/paragraph/paragraph.css);
 @import url(../blocks/paragraph/_place/paragraph_place_intro.css);
