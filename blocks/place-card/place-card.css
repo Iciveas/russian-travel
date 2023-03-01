@@ -15,14 +15,12 @@
 
 @media all and (max-width: 1023px) {
   .place-card{
-    width: 100%;
     padding: 0 24px;
   }
 }
 
 @media all and (max-width: 767px) {
   .place-card {
-    width: 100%;
     padding: 0;
   }
 }
