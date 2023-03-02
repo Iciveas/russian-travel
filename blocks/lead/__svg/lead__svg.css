@@ -1,4 +1,4 @@
-.page-titling__svg {
+.lead__svg {
   position: absolute;
   top: 10%;
   left: 0;
@@ -8,13 +8,13 @@
 }
 
 @media all and (max-width: 1023px) {
-  .page-titling__svg {
+  .lead__svg {
     padding: 18px;
   }
 }
 
 @media all and (max-width: 767px) {
-  .page-titling__svg {
+  .lead__svg {
     padding: 8px;
   }
 }

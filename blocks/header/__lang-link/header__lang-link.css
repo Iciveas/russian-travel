@@ -5,12 +5,8 @@
   line-height: 28px;
 }
 
-.header__lang-link:first-child {
-  text-decoration: none;
-}
-
 .header__lang-link:hover{
-  opacity: 0.2;
+  opacity: .8;
 }
 
 
