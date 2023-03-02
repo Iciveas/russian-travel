@@ -1,4 +1,13 @@
 .project-info__link {
   text-decoration: none;
-  display: inline-block;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 740px;
+  width: 100%;
+  background-color: rgba(42, 44, 47, .3);
+}
+
+.project-info__link:hover {
+  background-color: rgba(42, 44, 47, .8);
 }

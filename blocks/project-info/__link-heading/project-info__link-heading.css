@@ -2,8 +2,9 @@
   font-weight: 900;
   font-size: 72px;
   line-height: 76px;
-  margin: 0;
+  margin: 0 auto;
   width: 100%;
+  max-width: 560px;
   text-align: center;
 }
 

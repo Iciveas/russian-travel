@@ -1,4 +1,4 @@
-.subtitle {
+.lead__subtitle {
   text-align: center;
   font-weight: 400;
   font-size: 30px;
@@ -11,13 +11,13 @@
 
 
 @media all and (max-width: 1279px) {
-  .subtitle {
+  .lead__subtitle {
     margin: 32px 0 56px;
   }
 }
 
 @media all and (max-width: 767px) {
-  .subtitle {
+  .lead__subtitle {
     font-size: 1rem;
     line-height: 1.25rem;
     min-height: 40px;

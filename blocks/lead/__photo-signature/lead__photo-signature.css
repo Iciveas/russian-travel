@@ -1,4 +1,4 @@
-.page-titling__photo-signature {
+.lead__photo-signature {
   padding: 8px 0 0 148px;
   margin: 0;
   box-sizing: border-box;
@@ -12,19 +12,19 @@
 }
 
 @media all and (max-width: 1279px) {
-  .page-titling__photo-signature {
+  .lead__photo-signature {
     padding: 8px 0 0 48px;
   }
 }
 
 @media all and (max-width: 1023px) {
-  .page-titling__photo-signature {
+  .lead__photo-signature {
     padding: 8px 0 0 24px;
   }
 }
 
 @media all and (max-width: 767px) {
-  .page-titling__photo-signature {
+  .lead__photo-signature {
     padding: 8px 0 0 16px;
   }
 }

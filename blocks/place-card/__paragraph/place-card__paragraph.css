@@ -1,4 +1,4 @@
-.paragraph_place_card {
+.place-card__paragraph {
   font-size: 18px;
   width: 100%;
   margin: 0;
@@ -6,7 +6,7 @@
 }
 
 @media all and (max-width: 1023px) {
-  .paragraph_place_card {
+  .place-card__paragraph {
     font-size: 1rem;
   }
 }
