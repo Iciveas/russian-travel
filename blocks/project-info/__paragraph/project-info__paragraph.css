@@ -17,5 +17,7 @@
   .project-info__paragraph {
     font-size: 0.88rem;
     line-height: 1rem;  
-}
+    margin: 16px auto 0;
+    max-width: 288px;
+  }
 }
