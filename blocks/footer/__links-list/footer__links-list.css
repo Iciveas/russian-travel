@@ -11,5 +11,6 @@
   .footer__links-list {
     flex-direction: column;
     margin-bottom: 48px;
+    gap: 32px;
 }
 }

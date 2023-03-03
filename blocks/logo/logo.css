@@ -1,0 +1,14 @@
+.logo {
+  margin-top: 28px;
+  height: 52px;
+  width: 176px;
+}
+
+
+@media all and (max-width: 767px) {
+  .logo {
+    margin-top: 16px;
+    height: 42px;
+    width: 142px;
+  }
+}
