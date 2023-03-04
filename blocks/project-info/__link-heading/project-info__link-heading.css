@@ -2,23 +2,17 @@
   font-weight: 900;
   font-size: 72px;
   line-height: 76px;
-  margin: 245px auto 0;
+  margin: 0 auto;
   width: 100%;
   max-width: 560px;
   text-align: center;
-}
-
-@media all and (max-width: 1279px) {
-  .project-info__link-heading {
-    margin: 195px auto 0;
-  }
+  position: relative;
 }
 
 @media all and (max-width: 1023px) {
   .project-info__link-heading {
     font-size: 4.5rem;
     line-height: 4.75rem;
-  margin: 115px auto 0;
   }
 }
 
@@ -27,6 +21,5 @@
     font-size: 2rem;
     line-height: 2.2rem;  
     max-width: 288px;
-    margin: 33px auto 0;
   }
 }
